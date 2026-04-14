@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Himanshu Magarde
 
-<!--
-**Himanshu-000/Himanshu-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Java Full Stack Developer  
+💻 Skilled in HTML, CSS, JavaScript  
+⚡ Currently learning Spring Boot  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: Java (Spring Boot)
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Projects
+- 📝 Task Manager App
+- 🍔 Testy Bites Website
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/himanshu-magarde-8162a2228
