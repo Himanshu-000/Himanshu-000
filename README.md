@@ -15,7 +15,7 @@
 
 ## 📌 Projects
 - 📝 Task Manager App
-- 🍔 Testy Bites Website
+- 🌦️ Weather App
 
 ---
 
